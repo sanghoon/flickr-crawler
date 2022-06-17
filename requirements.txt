@@ -1,0 +1,10 @@
+# pip install -U -r requirements.txt
+
+# Install flickrapi directly from its source repository.
+git+https://github.com/sybrenstuvel/flickrapi@4de81d85#egg=flickrapi
+
+fire
+numpy
+pillow
+tqdm
+ray
